@@ -1,3 +1,9 @@
+lliurex-store-blacklist (0.7.1) focal; urgency=medium
+
+  * First Focal Release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 10 Feb 2021 14:19:33 +0100
+
 lliurex-store-blacklist (0.7) bionic; urgency=medium
 
   * Added xul-ext-iceweasel-branding
